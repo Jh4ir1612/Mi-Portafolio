@@ -1,2 +1,2 @@
 # Mi-Portafolio
-Mi primer Portafolio
+Práctica calificada 02
